@@ -1,5 +1,5 @@
 /* ============================================================================
-   GroundAI — Landing Page (High-Contrast Dynamic Production Build)
+   Valobite — Bangladesh's Marketplace for Independent Sellers
    React · Tailwind CSS · Framer Motion · Lucide
    Local assets: /public/assets/{hero,sculpture,portrait,avatar,moss}.jpg
 ============================================================================ */
@@ -13,7 +13,6 @@ import {
   useSpring,
 } from "framer-motion";
 import {
-  ArrowUpRight,
   ArrowRight,
   Plus,
   Check,
@@ -23,9 +22,9 @@ import {
   Dumbbell,
   BookOpen,
   Star,
-  Facebook,
-  Instagram,
-  Twitter,
+  Send,
+  Globe,
+  Share2,
   ShoppingBag,
 } from "lucide-react";
 
