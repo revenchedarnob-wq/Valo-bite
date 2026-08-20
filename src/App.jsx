@@ -25,11 +25,11 @@ import {
 
 /* ----------------------------- Assets ------------------------------------ */
 const IMG = {
-  hero: "assets/hero.jpg",
-  sculpture: "assets/sculpture.jpg",
-  portrait: "assets/portrait.jpg",
-  avatar: "assets/avatar.jpg",
-  moss: "assets/moss.jpg",
+  hero: `${import.meta.env.BASE_URL}assets/hero.jpg`,
+  sculpture: `${import.meta.env.BASE_URL}assets/sculpture.jpg`,
+  portrait: `${import.meta.env.BASE_URL}assets/portrait.jpg`,
+  avatar: `${import.meta.env.BASE_URL}assets/avatar.jpg`,
+  moss: `${import.meta.env.BASE_URL}assets/moss.jpg`,
 };
 
 /* ------------------------- Motion physics matrix -------------------------- */
