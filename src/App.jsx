@@ -25,7 +25,7 @@ import {
 
 /* ----------------------------- Assets ------------------------------------ */
 const IMG = {
-  hero: `${import.meta.env.BASE_URL}assets/hero.jpg`,
+  hero: `${import.meta.env.BASE_URL}assets/heroo.jpg`,
   sculpture: `${import.meta.env.BASE_URL}assets/sculpture.jpg`,
   portrait: `${import.meta.env.BASE_URL}assets/portrait.jpg`,
   avatar: `${import.meta.env.BASE_URL}assets/avatar.jpg`,
